@@ -6,8 +6,8 @@ import ThemeProvider from "@/components/providers/ThemeProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Cockatoo",
-  description: "An AI Powered chatbot",
+  title: "Mynah - AI Chat Bird 🐦",
+  description: "An AI Powered chatbot like the bird 🐦",
 };
 
 export default function RootLayout({
